@@ -1,13 +1,3 @@
----
-title: test
----
-[[2025-09-01]] 10:28
-
-Status:
-
-Tags: [[TTRPG system]]
-
-
 # Grimwild System Notes
 ## Spielsetup (Session 0)
 Als Gruppe wird eine **Adventuring Party** kreiert indem mit ein paar Begriffen festgelegt wird, was die Party ist und was sie nicht ist. Es wird davon ausgegangen, dass die Party sich bereits kennt.

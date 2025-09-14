@@ -1,26 +1,19 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: My New Hugo Site
+title: Pen & Paper Grimoire
 module:
   imports:
     - path: hextra
 menu:
   main:
-    - name: Documentation
-      pageRef: /docs
+    - name: Rules
+      pageRef: /rules
       weight: 1
-    - name: Blog
-      pageRef: /blog
-      weight: 2
-    - name: About
-      pageRef: /about
-      weight: 3
     - name: Search
       weight: 4
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra"
-      params:
-        icon: github
+params:
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: normal
