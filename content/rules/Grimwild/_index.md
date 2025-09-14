@@ -3,8 +3,8 @@ title: Grimwild
 layout: hextra-rules
 ---
 
-Hier gibt es für (hoffentlich) diverse Pen & Paper Rollenspiele Regeln für dich und mich zum nachschlagen.  
-Fang vielleicht hier an:  
+Hier findest du diverse Regeln zu Grimwild 
 {{< cards >}}
-  {{< card link="grimwild/grimwild-system-notes-1-pager" title="Grimwild" >}}
+  {{< card link="grimwild/grimwild-system-notes-1-pager" title="Spieler-Regeln">}}
+  {{< card link="grimwild/grimwild-system-notes-1-pager" title="Spielleiter-Regeln" >}}
 {{< /cards >}}
